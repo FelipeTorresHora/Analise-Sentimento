@@ -1,0 +1,3004 @@
+{
+    "analyzed_reviews": [
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto decente, mas esperava mais.",
+            "sentiment_score": 3,
+            "confidence_score": 0.81
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Adorei! Vale cada centavo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.89
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Custo-benefício razoável.",
+            "sentiment_score": 2,
+            "confidence_score": 0.41
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Totalmente insatisfeito com a compra.",
+            "sentiment_score": 1,
+            "confidence_score": 0.87
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Faz o que promete, mas sem grandes diferenciais.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto veio com defeito, muito decepcionado.",
+            "sentiment_score": 1,
+            "confidence_score": 0.78
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Atendeu todas as minhas necessidades.",
+            "sentiment_score": 4,
+            "confidence_score": 0.46
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito bom, recomendo a todos.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Pior produto que já adquiri.",
+            "sentiment_score": 5,
+            "confidence_score": 0.86
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto de alta qualidade, recomendo.",
+            "sentiment_score": 5,
+            "confidence_score": 0.68
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Arrependido da compra, não atendeu minhas expectativas.",
+            "sentiment_score": 1,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto de baixa qualidade, não compre.",
+            "sentiment_score": 1,
+            "confidence_score": 0.73
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Péssima qualidade, não recomendo.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona bem, mas não é nada extraordinário.",
+            "sentiment_score": 3,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Quebra facilmente, não vale o investimento.",
+            "sentiment_score": 1,
+            "confidence_score": 0.55
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Não é ruim, mas também não é excelente.",
+            "sentiment_score": 3,
+            "confidence_score": 0.49
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Funciona, mas o manual de instruções é confuso.",
+            "sentiment_score": 3,
+            "confidence_score": 0.64
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Produto bom, mas poderia ser melhor.",
+            "sentiment_score": 3,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Facilidade de uso incrível, estou impressionado.",
+            "sentiment_score": 5,
+            "confidence_score": 0.71
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Qualidade impecável e entrega rápida.",
+            "sentiment_score": 5,
+            "confidence_score": 0.69
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Não funciona como esperado, muito frustrante.",
+            "sentiment_score": 1,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Melhor compra que já fiz!",
+            "sentiment_score": 5,
+            "confidence_score": 0.91
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Produto excelente! Superou minhas expectativas.",
+            "sentiment_score": 5,
+            "confidence_score": 0.8
+        },
+        {
+            "product": "Micro-ondas QuickHeat (EletroD)",
+            "comment": "Funciona perfeitamente, estou muito satisfeito.",
+            "sentiment_score": 5,
+            "confidence_score": 0.75
+        },
+        {
+            "product": "Fogão 4 Bocas (EletroD)",
+            "comment": "Muito barulhento e ineficiente.",
+            "sentiment_score": 1,
+            "confidence_score": 0.5
+        },
+        {
+            "product": "Geladeira FrostFree (EletroD)",
+            "comment": "Atendimento ao cliente horrível, não comprem.",
+            "sentiment_score": 1,
+            "confidence_score": 0.93
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Ótimo desempenho e design moderno.",
+            "sentiment_score": 5,
+            "confidence_score": 0.65
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Bom, mas o design poderia ser mais moderno.",
+            "sentiment_score": 3,
+            "confidence_score": 0.56
+        },
+        {
+            "product": "Máquina de Lavar TurboWash (EletroD)",
+            "comment": "Atende às expectativas, mas não me surpreendeu.",
+            "sentiment_score": 3,
+            "confidence_score": 0.76
+        }
+    ]
+}
